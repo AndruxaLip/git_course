@@ -1,1 +1,2 @@
 dodanie funkcionalnosci 
+zmiana funkcjonalności A
