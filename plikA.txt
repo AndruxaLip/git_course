@@ -1,2 +1,4 @@
-dodanie funkcionalnosci C 
-  zmiana funkcjonalności A
+dodanie funkcionalnosci B
+zmiana funkcjonalności A
+
+>>>>>>> testing
